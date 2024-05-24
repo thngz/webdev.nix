@@ -20,6 +20,9 @@
                 nodePackages_latest.live-server 
                 nodePackages_latest.typescript-language-server
                 vscode-langservers-extracted
+                jetbrains.webstorm
+                dockerfile-language-server-nodejs
+                docker-compose-language-service
             ];
          };
     };
